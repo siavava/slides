@@ -5,19 +5,16 @@ class: text-left
 highlighter: shiki
 lineNumbers: true
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## Amittai's Slides for various things.
 drawings:
   persist: false
 transition: slide-left
-title: Welcome to Slidev
+title: Slides | Amittai
 ---
 
 # Amittai's slides
 
-Presentation slides I made for various things.
+Everything is designed. Few things are designed well.
 
 &copy; [Amittai Siavava](https://amittai.studio)
 
@@ -30,4 +27,14 @@ What else happens?
 
 # Index
 
-- [Dartmouth Robotics](/dartmouth-robotics)
+1. [AI @ Dartmouth Robotics][robotics-slides]
+
+<div class="abs-br m-6 flex gap-2">
+
+Lost? [Read something][blog] or [go back home][portfolio].
+
+</div>
+
+[blog]:             https://txt.amittai.studio
+[robotics-slides]:  https://robotics.slides.amittai.studio
+[portfolio]:        https://amittai.studio

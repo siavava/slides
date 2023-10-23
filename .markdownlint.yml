@@ -20,3 +20,8 @@ MD001: false
 
 # ignore no-bare-urls rule
 MD034: false
+
+MD024: false
+
+# disable no emphasis as heading rule
+MD036: false
