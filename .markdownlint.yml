@@ -1,0 +1,22 @@
+
+
+# ignore no-multiple-h1s rule
+MD025: false
+
+# ignore no-inline-html rule
+MD033: false
+
+# ignore line-length rule
+MD013: false
+
+# ignore heading-style rule
+MD003: false
+
+# ignore blanks-around-headings rule
+MD022: false
+
+# ignore heading-increment rule
+MD001: false
+
+# ignore no-bare-urls rule
+MD034: false
