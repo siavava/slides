@@ -11,7 +11,7 @@ info: |
 drawings:
   persist: false
 transition: slide-left
-title: Slides | Amittai
+title: Dartmouth Robotics AI Team
 ---
 
 # Dartmouth Robotics
@@ -38,5 +38,10 @@ hide: false
 
 ---
 src: ./pages/01.md
+hide: true
+---
+
+---
+src: ./pages/02.md
 hide: false
 ---
