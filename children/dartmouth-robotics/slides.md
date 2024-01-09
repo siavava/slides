@@ -12,6 +12,7 @@ drawings:
   persist: false
 transition: slide-left
 title: Dartmouth Robotics AI Team
+hideInToc: true
 ---
 
 # Dartmouth Robotics
@@ -20,16 +21,8 @@ AI is everywhere. It is not that big, scary thing in the future.
 
 &copy; [Amittai Siavava](https://amittai.studio)
 
-<!--
-This is important.
-What else happens?
--->
-
 ---
-src: ./pages/00.md
-hide: false
----
-
+hideInToc: true
 ---
 
 # Table of contents
@@ -37,8 +30,13 @@ hide: false
 <Toc></Toc>
 
 ---
+src: ./pages/00.md
+hide: false
+---
+
+---
 src: ./pages/01.md
-hide: true
+hide: false
 ---
 
 ---
